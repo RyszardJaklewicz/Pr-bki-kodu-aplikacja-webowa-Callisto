@@ -1,0 +1,47 @@
+
+git init
+
+
+najpierw git add .
+potem 
+git commit -m "TRESC commit"
+
+
+git remote rm origin
+
+------------------------------------------------------------------
+
+git remote add origin https://github.com/RyszardJaklewicz/Probki-kodu-aplikacja-webowa-Callisto.git
+
+------------------------------------------------------------------
+
+
+
+git origin https://github.com/your/Examples_Python_programing_modules_electronic.git (fetch)
+
+git origin https://github.com/your/Examples_Python_programing_modules_electronic.git (push)
+
+
+W razie bledu 
+git pull
+
+
+Wgranie do zdalnego repozytorium
+------------------------------------
+git push origin master
+lub
+git push -f origin master
+
+
+git branch --set-upstream-to=origin/master
+
+git pull --rebase origin main
+
+git push -f origin master
+
+
+git push --set-upstream origin
+
+git push --set-upstream origin master
+
+rm -f ./.git/index.lock
