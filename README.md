@@ -1,2 +1,2 @@
-# Próbki kodu aplikacji webowej Callisto
-Próbki kodu z aplikacji webowej Callisto
+# Probki kodu aplikacji webowej Callisto
+Probki kodu z aplikacji webowej Callisto
